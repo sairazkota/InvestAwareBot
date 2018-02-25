@@ -1,0 +1,3 @@
+[2016-09-29 23:49:23.723] [INFO] ridesharebot - Express server listening on port 
+[2016-09-29 23:49:24.452] [ERROR] ridesharebot - error Connected to PSSequelizeConnectionError: no pg_hba.conf entry for host "203.217.147.203", user "uesndonefexzbt", database "d4cc8m66rq7u1t", SSL off
+[2016-09-30 14:05:03.882] [INFO] ridesharebot - Express server listening on port 

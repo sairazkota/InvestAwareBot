@@ -1,0 +1,1 @@
+[2016-09-29 23:49:24.452] [ERROR] ridesharebot - error Connected to PSSequelizeConnectionError: no pg_hba.conf entry for host "203.217.147.203", user "uesndonefexzbt", database "d4cc8m66rq7u1t", SSL off

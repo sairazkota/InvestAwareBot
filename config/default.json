@@ -1,0 +1,11 @@
+{
+
+	"tutorial_url_android": "http://gph.is/2bN9QBB",
+	"tutorial_url_ios": "http://gph.is/2c5o3gI",
+	"tutorial_url": "http://gph.is/2c5o3gI1",
+	"appSecret": "dbb4cb43f8f2227d12816b93e0e75016",
+	"pageAccessToken": "EAAO3Uk5JpWsBAGSVGDUcHUZBZBGZAFiIMt9LWN2h2PWSOOo924VtOR7KvZC4IeNiE9uBYiZAOVnN11wZBlAsUtFvYuX1IZCDHCdxZA9oFOZClS15lQn7r3Hndvx8yaBG7WtahDCTtM4EOjJzaQhdZCXIhX6vp5st2pWjZCkDKSuLwjyFgZDZD",
+	"validationToken": "s#!v@1",
+	"geocodekey": "AIzaSyBzgNq1DFz2q0ODzseqMeABQC5JoPy305c",
+	"hostname": "https://bloodshareapp.herokuapp.com"
+}
